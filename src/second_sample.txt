@@ -1,0 +1,3 @@
+Another example.
+
+This file contains a blank line.
